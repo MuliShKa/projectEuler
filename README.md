@@ -17,7 +17,7 @@ Project Euler is a collection of challenging mathematical and computational prob
 
 ## 🛠 Technologies
 
-- Language: Python 3  *(change if needed)*
+- Language: GO  *(change if needed)*
 - Focus on optimized and readable solutions
 
 ---
